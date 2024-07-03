@@ -1,4 +1,4 @@
-# React Hook Form + TypeScript + Vite with Zustand and Tailwind 
+# React + TypeScript + Vite with Zustand, React Hook Form and Tailwind 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
