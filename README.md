@@ -1,4 +1,6 @@
-# React + TypeScript + Vite with Zustand, React Hook Form and Tailwind 
+# Web application to track patients in a veterinary clinic using React Hook Form + TypeScript + Vite with Zustand and Tailwind
+
+link: https://super-tanuki-7e93aa.netlify.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
